@@ -1,0 +1,14 @@
+:root{
+    --press-state-color: #404BBF;
+    --secondary-accent-color: #31D0AA;
+    --primary-brand-color: #4D5AE5;
+    --white-background-color: #ffffff; 
+    --hero-background-color:#2e2f42;
+    --button-background-color: #F4F4FD;
+    --text-color: #434455;
+    --subtle-text-color: #8E8F99;
+    --accent-color: #E7E9FC;
+    --light-color: #F4F4FD;
+    --modal-background-color: #FCFCFC;
+    --transition-dur-and-fun: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
